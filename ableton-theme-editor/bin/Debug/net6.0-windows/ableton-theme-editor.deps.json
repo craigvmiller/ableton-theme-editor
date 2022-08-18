@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ableton-theme-editor/1.0.0": {
+        "dependencies": {
+          "ableton-theme-editor.core": "1.0.0"
+        },
+        "runtime": {
+          "ableton-theme-editor.dll": {}
+        }
+      },
+      "ableton-theme-editor.core/1.0.0": {
+        "runtime": {
+          "ableton-theme-editor.core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ableton-theme-editor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ableton-theme-editor.core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

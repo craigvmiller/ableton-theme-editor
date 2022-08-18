@@ -1,0 +1,12 @@
+C:\Users\craig\source\repos\ableton-theme-editor\ableton-theme-editor.core\bin\Debug\net6.0\ableton-theme-editor.core.deps.json
+C:\Users\craig\source\repos\ableton-theme-editor\ableton-theme-editor.core\bin\Debug\net6.0\ableton-theme-editor.core.dll
+C:\Users\craig\source\repos\ableton-theme-editor\ableton-theme-editor.core\bin\Debug\net6.0\ableton-theme-editor.core.pdb
+C:\Users\craig\source\repos\ableton-theme-editor\ableton-theme-editor.core\obj\Debug\net6.0\ableton-theme-editor.core.csproj.AssemblyReference.cache
+C:\Users\craig\source\repos\ableton-theme-editor\ableton-theme-editor.core\obj\Debug\net6.0\ableton-theme-editor.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craig\source\repos\ableton-theme-editor\ableton-theme-editor.core\obj\Debug\net6.0\ableton-theme-editor.core.AssemblyInfoInputs.cache
+C:\Users\craig\source\repos\ableton-theme-editor\ableton-theme-editor.core\obj\Debug\net6.0\ableton-theme-editor.core.AssemblyInfo.cs
+C:\Users\craig\source\repos\ableton-theme-editor\ableton-theme-editor.core\obj\Debug\net6.0\ableton-theme-editor.core.csproj.CoreCompileInputs.cache
+C:\Users\craig\source\repos\ableton-theme-editor\ableton-theme-editor.core\obj\Debug\net6.0\ableton-theme-editor.core.dll
+C:\Users\craig\source\repos\ableton-theme-editor\ableton-theme-editor.core\obj\Debug\net6.0\refint\ableton-theme-editor.core.dll
+C:\Users\craig\source\repos\ableton-theme-editor\ableton-theme-editor.core\obj\Debug\net6.0\ableton-theme-editor.core.pdb
+C:\Users\craig\source\repos\ableton-theme-editor\ableton-theme-editor.core\obj\Debug\net6.0\ref\ableton-theme-editor.core.dll
